@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Hanna-Hinn
-- 👀 I’m interested in Java,C,C++,Games, Game development
-- 🌱 I’m currently learning Python,C++,Unity
+- 👀 I’m interested in Java,C,C++,Game DEvelopment, Backend
+- 🌱 I’m currently learning Python
+- 💻 is my life.
+- 🤓 I know Java,Html,CSS.
+- 🏫 I am trying to become one of the biggest problem solvers in my country 
 - 📫 How to reach me hanna.hinn30@gmail.com
 
 <!---
