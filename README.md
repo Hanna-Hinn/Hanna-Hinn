@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hanna-Hinn
-- 👀 I’m interested in Backend,Game development.
+- 👀 I’m interested in Backend,Game development, frontend.
 - 🤓 I know Java,Html,CSS,Python.
 - 📫 How to reach me hanna.hinn30@gmail.com
 
