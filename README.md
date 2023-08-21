@@ -1,7 +1,7 @@
 <img src="https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png">
 <h1 align="center">Hi 👋, I'm Hanna Hinn</h1>
 <h3 align="center">I am a software developer with an urge to learn.</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFqeG03dTRyajN2cDdoNXRwc28xNzZ1ZWl4NzlxNzNpZmJuNXZjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 
 
