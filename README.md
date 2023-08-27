@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hanna Hinn</h1>
 <h3 align="center">I am a software developer with an urge to learn.</h3>
 
-
+![](https://komarev.com/ghpvc/?username=Hanna-Hinn)
 
 
 - 🔭 I’m currently working on **Improving my skills**
