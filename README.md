@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js, Backend Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hanna-Hinn](https://github.com/Hanna-Hinn)
+- 👨‍💻 All of my projects are available at [Hanna Hinn](https://github.com/Hanna-Hinn?tab=repositories)
 
 - 💬 Ask me about **react.js, JavaScript, Java.**
 
