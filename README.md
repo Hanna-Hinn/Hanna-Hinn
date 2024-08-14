@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 <h1 align="center">Hi 👋, I'm Hanna Hinn</h1>
-<h3 align="center">I am a software developer with an urge to learn.</h3>
+<h3 align="center">A Full Stack Engineer with an urge to learn.</h3>
 
 ![](https://komarev.com/ghpvc/?username=Hanna-Hinn)
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Hanna Hinn](https://github.com/Hanna-Hinn?tab=repositories)
 
-- 💬 Ask me about **react.js, JavaScript.**
+- 💬 Ask me about **react.js, JavaScript., Python, AWS**
 
 - 📫 How to reach me **hanna.hinn30@gmail.com**
 
