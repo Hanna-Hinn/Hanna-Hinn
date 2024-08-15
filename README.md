@@ -66,6 +66,15 @@
   <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white" />
+</p>
+
+#### Databases:
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
 </p>
 
 #### DevOps and Testing:
@@ -78,7 +87,10 @@
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/moto-%23029E74.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-%230B4D7C.svg?style=for-the-badge&logo=Mockito&logoColor=white" />
 </p>
+
 
 
 ### 📊 Github Stats
