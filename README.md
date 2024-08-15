@@ -81,7 +81,7 @@
 
 ### 📊 Github Stats
 <a href='https://github.com/Hanna-Hinn/github-stats-transparent'>
-<img width="300px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanna-hinn&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="hanna-hinn" />
-<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=hanna-hinn&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="hanna-hinn" />
-<img align="left" width="500px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=hanna-hinn&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="hanna-hinn" />
+<img width="300px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanna-hinn&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hanna-hinn" />
+<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=hanna-hinn&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hanna-hinn" />
+<img align="left" width="500px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=hanna-hinn&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hanna-hinn" />
 </a>
