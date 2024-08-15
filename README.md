@@ -64,6 +64,8 @@
   <img src="https://img.shields.io/badge/Passport.js-%234F7A5D.svg?style=for-the-badge&logo=Passport&logoColor=white" />
   <img src="https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=Material-UI&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
 #### DevOps and Testing:
