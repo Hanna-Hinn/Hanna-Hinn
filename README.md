@@ -24,7 +24,6 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working with [@ImVitro](https://www.linkedin.com/company/imvitro/mycompany/)
 - 🤝 &nbsp; I’m open to collaborate on any project
 - 🌱 &nbsp; I’m currently learning AWS and cloud services; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
