@@ -1,6 +1,8 @@
 <h1 align="left" id="macropower-title">:wave: Hello there!</h1>
 
-<p>Welcome to my page! </br>I'm Hanna, Fullstack Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197467.png" width="13"/> <b>Ramallah, Palestine</b></p>
+<p>Welcome to my page! </br>I'm Hanna, Fullstack Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197467.png" width="13"/> <b>Ramallah, Palestine <a href="![Weather](https://img.shields.io/endpoint?url=https://Hanna-Hinn.github.io/Weather-Github-Badge/tree/gh-pages/weather.json)
+"><img alt="Weather In Ramallah" src="![Weather](https://img.shields.io/endpoint?url=https://Hanna-Hinn.github.io/Weather-Github-Badge/tree/gh-pages/weather.json)
+"></a></b></p>
 
 <p align="left">
   <a href="https://github.com/Hanna-Hinn/Hanna-Hinn">
