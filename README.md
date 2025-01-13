@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there!</h1>
 
-<p>Welcome to my page! <br>I'm Hanna, Fullstack Engineer from 
+<p>Welcome to my page! <br>I'm Hanna, Software Engineer from 
 <img src="https://cdn-icons-png.flaticon.com/512/197/197467.png" width="13"/> 
 <b>Ramallah, Palestine 
   <a href="https://hanna-hinn.github.io/Weather-Github-Badge/weather.json">
