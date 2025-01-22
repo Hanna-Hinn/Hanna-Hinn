@@ -25,7 +25,6 @@
 ### 🧐 More About Me:
 
 - 🤝 &nbsp; I’m open to collaborate on any project
-- 🌱 &nbsp; I’m currently learning AWS and cloud services; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/hanna-hinn/)
@@ -59,6 +58,8 @@
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Koa-%23333333.svg?style=for-the-badge&logo=Koa&logoColor=white" />
 </p>
 
 #### Tools:
@@ -73,6 +74,9 @@
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
 </p>
 
 #### Databases:
