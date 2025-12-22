@@ -3,9 +3,6 @@
 <p>Welcome to my page! <br>I'm Hanna, Software Engineer from 
 <img src="https://cdn-icons-png.flaticon.com/512/197/197467.png" width="13"/> 
 <b>Ramallah, Palestine 
-  <a href="https://hanna-hinn.github.io/Weather-Github-Badge/weather.json">
-    <img alt="Today's Weather In Ramallah" src="https://img.shields.io/endpoint?url=https://hanna-hinn.github.io/Weather-Github-Badge/weather.json">
-  </a>
 </b>
 </p>
 
