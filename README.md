@@ -1,108 +1,111 @@
-<h1 align="left" id="macropower-title">:wave: Hello there!</h1>
+<!-- Profile README · matches the portfolio's "Signal" direction: one hook, mono labels, facts over badges -->
 
-<p>Welcome to my page! <br>I'm Hanna, Software Engineer from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197467.png" width="13"/> 
-<b>Ramallah, Palestine 
-</b>
+<h1 align="left">Hanna Hinn</h1>
+
+<p align="left">
+  <b>I wire LLMs to real products, data, and users.</b><br/>
+  Backend-leaning Full-Stack Engineer · Generative AI · RAG · AWS serverless<br/>
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197467.png" width="13" alt="" /> Ramallah, Palestine · <code>Asia/Hebron</code>
 </p>
 
 <p align="left">
-  <a href="https://github.com/Hanna-Hinn/Hanna-Hinn">
-    <img src="https://komarev.com/ghpvc/?username=Hanna-Hinn" alt="page views" />
-  </a>
-  <a href="https://stackoverflow.com/users/24234609/hanna-hinn">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/24234609?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/Hanna-Hinn?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Hanna-Hinn?style=flat&logo=github">
-  </a>
+  <a href="https://hanna-portfolio.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-hanna.hinn-2546ff?style=flat-square&logo=cloudflare&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hanna-hinn/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-in%2Fhanna--hinn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hanna.hinn30@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-hanna.hinn30%40gmail.com-0b1220?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/14EN7_M_qCZgwPlsxYKNwZOTRPHGdZmP2/view?usp=sharing"><img alt="Résumé" src="https://img.shields.io/badge/r%C3%A9sum%C3%A9-PDF-00b3a4?style=flat-square&logo=googledrive&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/24234609/hanna-hinn"><img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/24234609?style=flat-square&color=f48024&label=stack%20overflow&logo=stackoverflow" /></a>
+  <a href="https://github.com/Hanna-Hinn?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Hanna-Hinn?style=flat-square&logo=github&label=followers" /></a>
 </p>
 
+```text
+// status   Lead Full-Stack Engineer @ Callifly (remote, FR)   ● open to senior backend / applied-AI roles
+// ships    production AI voice & chat platform · 100+ users · 50+ maintained AI agents
+// stack    TypeScript · Python · AWS Lambda / API Gateway / DynamoDB / S3 · Terraform
+// focus    RAG · voice AI · infrastructure as code
+```
 
-### 🧐 More About Me:
+## 01 · Selected work
 
-- 🤝 &nbsp; I’m open to collaborate on any project
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/hanna-hinn/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/14EN7_M_qCZgwPlsxYKNwZOTRPHGdZmP2/view?usp=sharing)
+| | Project | What it proves | Stack |
+|---|---|---|---|
+| 2026 | **[VectorForge](https://github.com/Hanna-Hinn/VectorForge)** | Standalone, high-performance RAG engine: pluggable embedders, hybrid search, eval harness | Python · FAISS · FastAPI |
+| 2025 | **[AI Skills Library](https://github.com/Hanna-Hinn/ai-skills-library)** | Versioned, evaluated catalogue of reusable skills & prompts for AI coding agents | Markdown · Evals |
+| 2025 | **Callifly Voice & Chat AI** <sub>closed source</sub> | GenAI integration layer in production · −50 % response time via RAG · −30 % manual ops via CI/CD + alerting | TS · React · AWS · Terraform |
+| 2024 | **[GreenSage](https://github.com/Hanna-Hinn/GreenSage)** | E-commerce backend: REST API, role-based auth, PostgreSQL, Lambda-ready | Node · Express · AWS |
+| 2024 | **[Terraform patterns](https://github.com/Hanna-Hinn/Terraform-practices-)** | Multi-cloud IaC: VPCs, IAM, serverless deploys, observability on AWS & GCP | Terraform · AWS · GCP |
+| 2023 | **[Markti](https://github.com/Hanna-Hinn/Markti)** | Aggregates product data from multiple e-stores into one search surface | Node · Scrapers |
 
+<sub>→ <a href="https://github.com/Hanna-Hinn?tab=repositories">Full archive</a></sub>
 
-<h3>Where to find me</h3>
+## 02 · Roadmap
+
+```text
+2025 —    ●  Lead Full-Stack Engineer · Callifly (France, remote)       GenAI · RAG · AWS serverless · Terraform
+2024      │  Back-End Engineer · ImVitro (Paris, biotech / IVF SaaS)     Python · Lambda · SNS → Slack pipelines · S3
+2023      │  Software Development Trainee · TAP (Nablus)                 Node · Express · MongoDB · OWASP
+2022      │  Front-End Developer Trainee · EXALT Technologies            React · Firebase
+2019–23   ○  B.Sc. Computer Science · Birzeit University                 + Django bootcamp @ Gaza Sky Geeks
+
+certs     AWS Cloud Practitioner Essentials · Architecting Solutions on AWS · Clean Code · Foundations of UX Design
+```
+
+## 03 · Toolbox
+
 <p>
-  <a href="https://github.com/Hanna-Hinn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/Hannahinn021" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hanna-hinn" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white" />
 </p>
-
-
-### 🔨 Languages and Tools:
-
-#### Programming Languages:
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=Java&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS%20Lambda%20%C2%B7%20API%20GW%20%C2%B7%20DynamoDB%20%C2%B7%20S3-232f3e?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7b42bc?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-4285f4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black" />
 </p>
-
-#### Frameworks:
 <p>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=Express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Koa-%23333333.svg?style=for-the-badge&logo=Koa&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20%C2%B7%20pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="pytest" src="https://img.shields.io/badge/pytest-0a9edc?style=flat-square&logo=pytest&logoColor=white" />
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit%20%C2%B7%20Mockito-25a162?style=flat-square&logo=junit5&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-#### Tools:
+## 04 · Now
+
+```text
+shipping   RAG eval harness in VectorForge
+leading    agent-tool spec at Callifly
+learning   Rust for hot retrieval paths
+open to    senior backend / applied-AI roles, RAG & LLM consulting, 15-min intro calls
+```
+
+## 05 · Stats
+
 <p>
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/React%20Redux-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passport.js-%234F7A5D.svg?style=for-the-badge&logo=Passport&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=Material-UI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hanna-hinn&show_icons=true&hide_border=true&theme=transparent&title_color=2546ff&icon_color=00b3a4" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanna-hinn&layout=compact&hide_border=true&theme=transparent&title_color=2546ff" alt="Top languages" />
 </p>
-
-#### Databases:
 <p>
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=hanna-hinn&hide_border=true&theme=transparent&ring=2546ff&fire=00b3a4&currStreakLabel=2546ff" alt="Contribution streak" />
 </p>
 
-#### DevOps and Testing:
 <p>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/moto-%23029E74.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-%230B4D7C.svg?style=for-the-badge&logo=Mockito&logoColor=white" />
+  <sub>
+    <a href="https://github.com/Hanna-Hinn">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/hanna-hinn/">LinkedIn</a> ·
+    <a href="https://x.com/Hannahinn021">X</a> ·
+    <a href="https://stackoverflow.com/users/24234609/hanna-hinn">Stack Overflow</a> ·
+    <a href="mailto:hanna.hinn30@gmail.com">hanna.hinn30@gmail.com</a>
+    &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=Hanna-Hinn&style=flat-square&color=2546ff" alt="profile views" align="absmiddle" />
+  </sub>
 </p>
-
-
-
-### 📊 Github Stats
-<a href='https://github.com/Hanna-Hinn/github-stats-transparent'>
-<img width="300px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanna-hinn&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hanna-hinn" />
-<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=hanna-hinn&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hanna-hinn" />
-<img align="left" width="500px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=hanna-hinn&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hanna-hinn" />
-</a>
