@@ -28,7 +28,6 @@
 
 | | Project | What it proves | Stack |
 |---|---|---|---|
-| 2026 | **[VectorForge](https://github.com/Hanna-Hinn/VectorForge)** | Standalone, high-performance RAG engine: pluggable embedders, hybrid search, eval harness | Python · FAISS · FastAPI |
 | 2025 | **[AI Skills Library](https://github.com/Hanna-Hinn/ai-skills-library)** | Versioned, evaluated catalogue of reusable skills & prompts for AI coding agents | Markdown · Evals |
 | 2025 | **Callifly Voice & Chat AI** <sub>closed source</sub> | GenAI integration layer in production · −50 % response time via RAG · −30 % manual ops via CI/CD + alerting | TS · React · AWS · Terraform |
 | 2024 | **[GreenSage](https://github.com/Hanna-Hinn/GreenSage)** | E-commerce backend: REST API, role-based auth, PostgreSQL, Lambda-ready | Node · Express · AWS |
@@ -83,7 +82,7 @@ certs     AWS Cloud Practitioner Essentials · Architecting Solutions on AWS · 
 ## 04 · Now
 
 ```text
-shipping   RAG eval harness in VectorForge
+shipping   GenAI features on the Callifly voice & chat platform
 leading    agent-tool spec at Callifly
 learning   Rust for hot retrieval paths
 open to    senior backend / applied-AI roles, RAG & LLM consulting, 15-min intro calls
