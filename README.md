@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <a href="https://hanna-portfolio.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-hanna.hinn-2546ff?style=flat-square&logo=cloudflare&logoColor=white" /></a>
+  <a href="https://portfolio-m4y.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-hanna.hinn-2546ff?style=flat-square&logo=cloudflare&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hanna-hinn/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-in%2Fhanna--hinn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hanna.hinn30@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-hanna.hinn30%40gmail.com-0b1220?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/14EN7_M_qCZgwPlsxYKNwZOTRPHGdZmP2/view?usp=sharing"><img alt="Résumé" src="https://img.shields.io/badge/r%C3%A9sum%C3%A9-PDF-00b3a4?style=flat-square&logo=googledrive&logoColor=white" /></a>
@@ -28,7 +28,6 @@
 
 | | Project | What it proves | Stack |
 |---|---|---|---|
-| 2026 | **[VectorForge](https://github.com/Hanna-Hinn/VectorForge)** | Standalone, high-performance RAG engine: pluggable embedders, hybrid search, eval harness | Python · FAISS · FastAPI |
 | 2025 | **[AI Skills Library](https://github.com/Hanna-Hinn/ai-skills-library)** | Versioned, evaluated catalogue of reusable skills & prompts for AI coding agents | Markdown · Evals |
 | 2025 | **Callifly Voice & Chat AI** <sub>closed source</sub> | GenAI integration layer in production · −50 % response time via RAG · −30 % manual ops via CI/CD + alerting | TS · React · AWS · Terraform |
 | 2024 | **[GreenSage](https://github.com/Hanna-Hinn/GreenSage)** | E-commerce backend: REST API, role-based auth, PostgreSQL, Lambda-ready | Node · Express · AWS |
@@ -83,7 +82,7 @@ certs     AWS Cloud Practitioner Essentials · Architecting Solutions on AWS · 
 ## 04 · Now
 
 ```text
-shipping   RAG eval harness in VectorForge
+shipping   GenAI features on the Callifly voice & chat platform
 leading    agent-tool spec at Callifly
 learning   Rust for hot retrieval paths
 open to    senior backend / applied-AI roles, RAG & LLM consulting, 15-min intro calls
